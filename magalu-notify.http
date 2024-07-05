@@ -1,0 +1,6 @@
+@magalu_notify_HostAddress = http://localhost:5054
+
+GET {{magalu_notify_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
