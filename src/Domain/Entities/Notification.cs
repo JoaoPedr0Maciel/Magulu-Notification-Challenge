@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace magalu_notify.src.Domain.Entities;
 
-[Table("Notification")]
+[Table("notification")]
 public class Notification 
 {
     [Key]
